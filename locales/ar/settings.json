@@ -4,7 +4,7 @@
   "settings":"Settings",
 	
 	"_commentoptionssettings":"SETTINGS OPTIONS",
-		"language" : "Language",
+		"language" : "اللغة",
 		"showHeaderPop" : "Show your avatar, Health/Experience bars, and party.",
 		"stickyHeader" : "Sticky header",
 			"stickyHeaderPop" : "Affix the header to the top of the screen. Unchecked means it scrolls out of view.",
@@ -27,8 +27,8 @@
 
 		"resetAccount" : "Reset Account",
 			"resetAccPop" : "Start over, removing all levels, gold, gear, history, and tasks.",
-		"deleteAccount" : "Delete Account",
-			"deleteAccPop" : "Cancel and remove your HabitRPG account.",	
+		"deleteAccount" : "حذف الحساب",
+			"deleteAccPop" : "سوف يتم إلغاء وحذف حسابك.",	
 
 		"qrCode" : "QR Code",
 		"dataExport" : "Data Export",
@@ -46,11 +46,11 @@
     "clockInfo":"HabitRPG defaults to check and reset your dailies at midnight each day. You can customize that here (Enter number between 0 and 24).",
 	  "misc":"Misc",
     "showHeader":"Show Header",
-	  "changePass":"Change Password",
-	    "oldPass":"Old Password",
-	    "newPass":"New Password",
-	    "confirmPass":"Confirm New Password",
-	  "dangerZone": "Danger Zone",
+	  "changePass":"تغيير كلمة المرور",
+	    "oldPass":"كلمة المرور القديمة",
+	    "newPass":"كلمة المرور الجديدة",
+	    "confirmPass":"تأكيد كلمة المرور الجديدة",
+	  "dangerZone": "منطقة الخطر",
       "resetText1":"This resets your entire account - your tasks will be deleted and your character will start over.",
       "resetText2":"This is highly discouraged because you'll lose historical data, which is useful for graphing your progress over time. However, some people find it useful in the beginning after playing with the app for a while.",
       "deleteText":"Are you sure? This will delete your account forever, and it can never be restored! You will need to register a new account to use HabitRPG again. Banked or spent Gems will not be refunded. If you're absolutely certain, type <strong>DELETE</strong> into the text box below.",
@@ -65,11 +65,11 @@
       "fixValuesText2" : "Note that you cannot restore Streaks on individual tasks here. To do that, edit the Daily and go to Advanced Options, where you will find a Restore Streak field.",
       "disabledWinterEvent" : "Disabled during Winter Wonderland Event Pt.4 (since the rewards are gold-purchaseable).",
       "fix21Streaks" : "21-Day Streaks",
-      "discardChanges" : "Discard Changes",
+      "discardChanges" : "طرح التغييرات",
     "deleteDo" : "Do it, delete my account!",
 
   "_commentjs" : "SETTINGSCTRL.JS STRINGS",
-  	"enterNumber" : "Please enter a number between 0 and 24",
-  	"fillAll" : "Please fill out all fields",
-  	"passSuccess" : "Password successfully changed"
+  	"enterNumber" : "الرجاء ادخال رقم بين 0 و 24",
+  	"fillAll" : "الرجاء تعبة جميع الفيلدز",
+  	"passSuccess" : "تم تغيير كلمة المرور بنجاح"
 }
