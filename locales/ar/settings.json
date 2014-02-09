@@ -70,6 +70,6 @@
 
   "_commentjs" : "SETTINGSCTRL.JS STRINGS",
   	"enterNumber" : "الرجاء ادخال رقم بين 0 و 24",
-  	"fillAll" : "الرجاء تعبة جميع الفيلدز",
+  	"fillAll" : "الرجاء تعبة جميع الخانات",
   	"passSuccess" : "تم تغيير كلمة المرور بنجاح"
 }
