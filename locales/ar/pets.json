@@ -1,12 +1,12 @@
 {
 "_commentpets" : "PETS RELATED STRINGS",
 
-  "pets" : "Pets",
+  "pets" : "الحيوانات الأليفة",
     "petsFound":"Pets Found",
     "rarePets": "Rare Pets",
     "questPets": "Quest Pets",
     "beastmasterProgress": "Beastmaster Progress",
-	"mounts" : "Mounts",
+	"mounts" : "مراكب",
 		"mountsTamed" : "Mounts Tamed",
 		"questMounts" : "Quest Mounts",
 		"rareMounts" : "Rare Mounts",
@@ -16,14 +16,14 @@
 		"cerberusPup" : "Cerberus Pup",
 		"hydra" : "Hydra",
 		"rarePetPop1" : "Click the gold paw to learn more about how you can obtain this rare pet through contributing to HabitRPG!",
-		"rarePetPop2" : "How to Get this Pet!",
-  "eggs": "Eggs",
-    "noEggs": "You don't have any eggs.",
+		"rarePetPop2" : "كيف يمكنك الحصول على هذا الحيوان الأليف!",
+  "eggs": "بيض",
+    "noEggs": "لا يوجد لديك بيض.",
   "hatchingPotions": "Hatching Potions",
     "noHatchingPotions": "You don't have any hatching potions.",
 	"inventoryText" : "Click an egg to see usable potions highlighted in green and then click one of the highlighted potions to hatch your pet. If no potions are highlighted, click that egg again to deselect it, and instead click a potion first to have the usable eggs highlighted. You can also sell unwanted drops to Alexander the Merchant.",
-	"food" : "Food",
-	"noFood" : "You don't have any food.",
+	"food" : "طعام",
+	"noFood" : "لا يوجد لديك طعام.",
 
 	"_commentachievement" : "PET ACHIEVEMENT",
     "beastAchievement" : "You have earned the \"Beast Master\" Achievement for collecting all the pets!",
@@ -38,6 +38,6 @@
 
   "_commentinventoryctrl.js" : "INVENTORYCTRL.JS STRINGS",
     "hatchAPot" : "Hatch a <%= potion %> <%= egg %>?",
-    "feedPet" : "'Feed <%= name %> <%= article %> <%= text %>?",
+    "feedPet" : "'اطعم <%= name %> <%= article %> <%= text %>?",
     "useSaddle" : "Saddle <%= pet %>?"
 }
